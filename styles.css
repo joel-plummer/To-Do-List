@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+    text-align: center;
+}
+#app {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: bisque;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+h1{
+    color: #333;
+}
+
+input[type="text"]{
+    width: 70%;
+    padding: 8px;
+    margin-right: 10px;
+    color:#000000;
+    border: none;
+    border-radius: 3px;
+}
+
+u1{
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: bisque;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 3px;
+}
